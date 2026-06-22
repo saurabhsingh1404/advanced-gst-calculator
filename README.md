@@ -45,7 +45,7 @@ Email: saurabh30132@gmail.com
 
 ## Project Purpose
 
-This project was developed as part of the Digital Heroes Developer Trial Task.
+This project is a modern GST Calculator designed to simplify tax calculations for businesses, freelancers, and individuals by providing instant GST, CGST, SGST, discount, and invoice calculations.
 
 The goal was to build and deploy a useful online tool that produces real output and solves a practical problem.
 
